@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+@import url('reset.css');
+@import url('common.css');
+
+
+
+
+.main_visual{
+    height: 100vh;
+}
+
+.main_visual img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+}
+
+.footer{
+    padding: 50px 0;
+    background-color:burlywood;
+    color: #333;
+    text-align: center;
+}
