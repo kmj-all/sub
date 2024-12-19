@@ -1,5 +1,5 @@
 $(function(){
-    $('.header').load('../common/header.html');
+    $('.header').load('common/header.html');
 
 
 });
